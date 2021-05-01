@@ -1,0 +1,17 @@
+Unity Asset Store assets used:
+Line Texture Panning Shader https://assetstore.unity.com/packages/vfx/shaders/line-texture-panning-shader-176919
+DNA https://assetstore.unity.com/packages/3d/dna-85031
+Outdoor Ground Textures https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555
+Cloudy Summer Day Skybox https://assetstore.unity.com/packages/2d/textures-materials/sky/cloudy-summer-day-skybox-1079
+Real Materials Vol.0 [Free] https://assetstore.unity.com/packages/2d/textures-materials/real-materials-vol-0-free-115597
+Wooden Floor Materials https://assetstore.unity.com/packages/2d/textures-materials/wood/wooden-floor-materials-150564
+Yughues Free Decorative Plants https://assetstore.unity.com/packages/3d/props/interior/yughues-free-decorative-plants-13283
+
+Unity Registry assets used:
+Oculus XR Plugin
+Probuilder
+Universal Render Pipeline
+TextMeshPro
+XR Interaction Toolkit
+
+Unity Version 2020.1.4f1
